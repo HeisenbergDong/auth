@@ -1,0 +1,41 @@
+# system configuration
+system:
+  addr: 8081
+  db-type: 'mysql'
+
+grpc:
+  auth-address: '127.0.0.1:9529'
+
+# zap logger configuration
+zap:
+  level: 'info'
+  format: 'console'
+  prefix: '[GIN-VUE-ADMIN]'
+  director: 'logs'
+  link-name: 'latest_log'
+  show-line: true
+  encode-level: 'LowercaseColorLevelEncoder'
+  stacktrace-key: 'stacktrace'
+  log-in-console: true
+
+# mysql connect configuration
+mysql:
+  path: '127.0.0.1:3306'
+  config: 'charset=utf8mb4&parseTime=True&loc=Local'
+  db-name: 'qmPlus'
+  username: 'root'
+  password: '521207'
+  max-idle-conns: 10
+  max-open-conns: 100
+  log-mode: true
+  log-zap: ""
+
+# redis configuration
+redis:
+  db: 0
+  addr: '127.0.0.1:6379'
+  password: ''
+
+# casbin configuration
+auth:
+  model-path: './cas/rbac_model.conf'

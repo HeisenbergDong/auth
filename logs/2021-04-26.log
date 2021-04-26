@@ -1,0 +1,52 @@
+[GIN-VUE-ADMIN]2021/04/26 - 09:47:40.439	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 09:47:40.440	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 09:54:43.174	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 09:54:43.175	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 09:57:30.908	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 09:57:30.909	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:00:35.922	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:00:35.924	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:02:35.390	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:02:35.391	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:05:18.052	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:05:18.052	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:30:41.605	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:30:41.606	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:34:09.943	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:34:09.944	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:39:22.925	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:39:22.926	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 10:57:34.291	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 10:57:34.292	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 13:50:18.826	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 13:50:18.827	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 14:02:41.062	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 14:02:41.063	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 14:04:23.405	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 14:04:23.405	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 14:27:23.540	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 14:27:23.542	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 14:57:24.086	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 14:57:24.087	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:01:35.261	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:01:35.262	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:03:07.176	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:03:07.177	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:03:13.657	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:03:13.658	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:03:19.129	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:03:19.130	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:04:20.742	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:04:20.743	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:07:55.216	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:07:55.217	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:11:14.249	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:11:14.250	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:35:42.321	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:35:42.322	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:37:55.162	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:37:55.163	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:40:50.277	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:40:50.278	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
+[GIN-VUE-ADMIN]2021/04/26 - 15:42:41.564	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/26 - 15:42:41.564	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529

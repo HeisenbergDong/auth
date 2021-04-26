@@ -1,0 +1,19 @@
+syntax = "proto3"; // 指定 proto 版本
+option go_package = ".;auth";
+
+package auth;     // 指定包名
+
+// 定义 auth 服务
+service AUTH {
+   rpc isAuth(req) returns (rep);
+}
+
+message req{
+   string sub = 1;
+   string obj = 2;
+   string act = 3;
+}
+
+message rep{
+   bool success = 1;
+}

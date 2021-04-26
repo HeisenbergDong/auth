@@ -1,0 +1,2 @@
+[GIN-VUE-ADMIN]2021/04/23 - 15:23:57.635	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/23 - 15:27:32.204	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}

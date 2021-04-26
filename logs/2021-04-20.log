@@ -1,0 +1,11 @@
+[GIN-VUE-ADMIN]2021/04/20 - 11:14:44.911	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:49	获取token失败	{"err": "rpc error: code = Unavailable desc = transport is closing"}
+[GIN-VUE-ADMIN]2021/04/20 - 13:41:33.096	[34minfo[0m	/Users/donghongbing/golandProject/go/src/user/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/20 - 14:18:23.279	[34minfo[0m	/Users/donghongbing/golandProject/go/src/user/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/20 - 14:23:41.017	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:171	从Gin的Context中获取从jwt解析出来的用户ID失败, 请检查路由是否使用jwt中间件
+[GIN-VUE-ADMIN]2021/04/20 - 14:23:53.435	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:171	从Gin的Context中获取从jwt解析出来的用户ID失败, 请检查路由是否使用jwt中间件
+[GIN-VUE-ADMIN]2021/04/20 - 14:27:05.259	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:171	从Gin的Context中获取从jwt解析出来的用户ID失败, 请检查路由是否使用jwt中间件
+[GIN-VUE-ADMIN]2021/04/20 - 14:27:59.803	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:171	从Gin的Context中获取从jwt解析出来的用户ID失败, 请检查路由是否使用jwt中间件
+[GIN-VUE-ADMIN]2021/04/20 - 14:29:06.439	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:171	从Gin的Context中获取从jwt解析出来的用户ID失败, 请检查路由是否使用jwt中间件
+[GIN-VUE-ADMIN]2021/04/20 - 14:29:59.414	[31merror[0m	/Users/donghongbing/golandProject/go/src/user/user/api/v1/user_controller.go:171	从Gin的Context中获取从jwt解析出来的用户ID失败, 请检查路由是否使用jwt中间件
+[GIN-VUE-ADMIN]2021/04/20 - 15:07:19.566	[34minfo[0m	/Users/donghongbing/golandProject/go/src/user/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/20 - 15:18:18.285	[34minfo[0m	/Users/donghongbing/golandProject/go/src/user/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}

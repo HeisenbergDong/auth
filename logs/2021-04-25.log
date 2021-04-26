@@ -1,0 +1,2 @@
+[GIN-VUE-ADMIN]2021/04/25 - 17:57:46.230	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/pkg/redis/redis.go:20	redis connect ping response:	{"pong": "PONG"}
+[GIN-VUE-ADMIN]2021/04/25 - 17:57:46.232	[34minfo[0m	/Users/donghongbing/golandProject/go/src/auth/grpc/auth/start/run.go:32	Listen on 127.0.0.1:9529
