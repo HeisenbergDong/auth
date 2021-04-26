@@ -4,6 +4,7 @@ import (
 	"auth/global"
 	"auth/grpc/auth/controller"
 	"auth/grpc/auth/pb"
+	"auth/utils"
 	"go.uber.org/zap"
 	"google.golang.org/grpc"
 	"net"
@@ -21,6 +22,7 @@ func NewGrpcServer() *GrpcServer {
 
 func (g *GrpcServer) Run() {
 	go func() {
+		defer utils.RecoverPanic()
 		listen, err := net.Listen("tcp", g.grpcAddress)
 		if err != nil {
 			global.LOG.Error("grpc server", zap.Any(" Failed to listen:", err))
